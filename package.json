@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
+    "prepack": "yarn build",
     "build": "yarn tsc"
   },
   "devDependencies": {

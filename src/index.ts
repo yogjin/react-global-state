@@ -45,3 +45,8 @@ export const useGlobalState = <State>(globalState: GlobalState<State>) => {
 
   return [state, globalState.setState] as const;
 };
+
+export const useGlobalStateValue = <State>(globalState: GlobalState<State>) =>
+  useSyncExternalStore(globalState.subscribe, globalState.getState);
+
+export const useSetGlobalState = <State>(globalState: GlobalState<State>) => globalState.setState;

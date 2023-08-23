@@ -1,6 +1,18 @@
 {
   "name": "@yogjin/react-global-state-hook",
   "version": "0.0.1",
+  "description": "react global state hook",
+  "keywords": [
+    "react",
+    "state",
+    "global state",
+    "useSyncExternalStore"
+  ],
+  "author": {
+    "name": "Youngjin Park",
+    "email": "youngjin988@gmail.com",
+    "url": "https://github.com/yogjin"
+  },
   "type": "module",
   "main": "dist/index.js",
   "license": "MIT",

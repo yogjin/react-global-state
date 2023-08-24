@@ -1,4 +1,4 @@
-# React-global-state  &middot; [![NPM Version](https://img.shields.io/npm/v/@yogjin/react-global-state)](https://www.npmjs.com/package/@yogjin/react-global-state) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebookexperimental/Recoil/blob/main/LICENSE)
+# React-global-state  &middot; [![NPM Version](https://img.shields.io/npm/v/@yogjin/react-global-state)](https://www.npmjs.com/package/@yogjin/react-global-state) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yogjin/react-global-state/blob/main/LICENSE)
 `react-global-state` is simple global state management library for React 18.
 
 ## Installation

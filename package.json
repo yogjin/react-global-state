@@ -1,7 +1,11 @@
 {
-  "name": "@yogjin/react-global-state-hook",
+  "name": "@yogjin/react-global-state",
   "version": "0.0.2",
-  "description": "react global state hook",
+  "description": "Simple global state management library for react18",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yogjin/react-global-state.git"
+  },
   "private": false,
   "keywords": [
     "react",

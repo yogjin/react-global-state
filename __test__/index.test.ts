@@ -1,11 +1,10 @@
-import { globalState } from './../src/index';
+import { globalState, useSetGlobalState } from './../src/index';
 
-test('global state 저장이 잘 된다.', () => {
-  const { getState, setState } = globalState(1);
-
-  expect(getState()).toEqual(1);
+test('non-react 코드에서 global state 저장이 잘 된다.', () => {
+  const state = globalState(1);
+  const setState = useSetGlobalState(state);
 
   setState(2);
 
-  expect(getState()).toEqual(2);
+  expect(state.getState()).toEqual(2);
 });

@@ -58,4 +58,4 @@ const add100ToCountState = () => {
 ```
 
 ### License
-`react-global-state` is [MIT licensed](https://github.com/yogjin/react-global-state/blob/main/LICENSE)https://github.com/yogjin/react-global-state/blob/main/LICENSE.
+`react-global-state` is [MIT licensed](https://github.com/yogjin/react-global-state/blob/main/LICENSE).

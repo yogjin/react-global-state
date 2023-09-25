@@ -2,7 +2,7 @@
 `react-global-state` is simple global state management library for React 18.
 
 ## Installation
-The Recoil package lives in [npm](https://www.npmjs.com/package/@yogjin/react-global-state)
+The `react-global-state` package lives in [npm](https://www.npmjs.com/package/@yogjin/react-global-state)
 
 To install the latest stable version, run the following command:
 ```sh
